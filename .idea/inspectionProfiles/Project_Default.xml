@@ -1,0 +1,24 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="sum" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="al_bcryp" />
+          <option value="main.flask_restful" />
+          <option value="Resource" />
+          <option value="Api" />
+          <option value="main.random_word" />
+          <option value="Scripts.unicode" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
