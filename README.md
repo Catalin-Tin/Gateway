@@ -45,5 +45,6 @@ CREATE TABLE `weather`.`Weather` (
 
 
   - Status Endpoint
+    
 ![image](https://github.com/Catalin-Tin/Gateway/assets/91093455/3c722d69-eb4b-4139-bd31-c91fc6fc8876)
 
